@@ -1,4 +1,4 @@
-package com.lab4.axity;
+package com.axity.dinosaurpark;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

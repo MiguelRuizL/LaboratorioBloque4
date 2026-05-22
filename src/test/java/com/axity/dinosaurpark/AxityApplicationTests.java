@@ -1,4 +1,4 @@
-package com.lab4.axity;
+package com.axity.dinosaurpark;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
